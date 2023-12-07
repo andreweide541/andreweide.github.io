@@ -29,4 +29,5 @@
 - Used pivot tables to gain insight and answer key questions about the data set
 - Combined the pivot tables to clean, interactive dashboard that shows valuable information about the data set
 
+![Dashboard](/assets/RoadAccidentDashboard.jpg)
 
