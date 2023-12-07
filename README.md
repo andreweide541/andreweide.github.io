@@ -16,6 +16,8 @@
 - Used SQL to perform exploratory data analysis and gain valuable insights on a covid data set
 - Imported queries into tableau to create a visualization of the important data
 
+https://github.com/andreweide541/andreweide.github.io/blob/db1ccde80abe0dd404db496a8ad1954c8855bd40/assets/SQLQuery2.sql#L90C1-L93C13 
+
 [Code](https://github.com/andreweide541/Covid-Data-Analysis/blob/e87830a570f9335b76bcb3d8ff4d9e14fa789db5/SQLQuery2.sql#L1)
 [Visualization](https://public.tableau.com/app/profile/andrew.eide/viz/CovidVisualizationDashboard_17016465788660/Dashboard1#1)
 
