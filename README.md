@@ -16,7 +16,7 @@
 - Used SQL to perform exploratory data analysis and gain valuable insights on a covid data set
 - Imported queries into tableau to create a visualization of the important data
 
-https://github.com/andreweide541/Covid-Data-Analysis/blob/e87830a570f9335b76bcb3d8ff4d9e14fa789db5/SQLQuery2.sql#L1C1-L2C1
+https://github.com/andreweide541/Covid-Data-Analysis/blob/e87830a570f9335b76bcb3d8ff4d9e14fa789db5/SQLQuery2.sql#L90
 
 ### App Store Exploratory Data Analysis
 - Analyzed a data set of thousands of apps on the app store with SQL
