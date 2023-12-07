@@ -16,12 +16,17 @@
 - Used SQL to perform exploratory data analysis and gain valuable insights on a covid data set
 - Imported queries into tableau to create a visualization of the important data
 
-https://github.com/andreweide541/Covid-Data-Analysis/blob/e87830a570f9335b76bcb3d8ff4d9e14fa789db5/SQLQuery2.sql#L90
+[Code](https://github.com/andreweide541/Covid-Data-Analysis/blob/e87830a570f9335b76bcb3d8ff4d9e14fa789db5/SQLQuery2.sql#L1)
+[Visualization](https://public.tableau.com/app/profile/andrew.eide/viz/CovidVisualizationDashboard_17016465788660/Dashboard1#1)
 
 ### App Store Exploratory Data Analysis
 - Analyzed a data set of thousands of apps on the app store with SQL
 - Used the data analysis to determine what kinds of could generate the most profit if developed
 
+[Code](41/App-Store-Data-Analysis/blob/572c4f73c697761bb5f262bdc478c93e76a1ef23/SQLite.sql#L1)
+
 ### Excel Road Accident Data Analysis
 - Used pivot tables to gain insight and answer key questions about the data set
 - Combined the pivot tables to clean, interactive dashboard that shows valuable information about the data set
+
+
