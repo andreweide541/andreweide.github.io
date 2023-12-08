@@ -6,6 +6,7 @@
 ### Grand Canyon University (_2023-2025_)
  - Bachelor of Science in Business Analytics
  - 4.0 GPA
+
 ### Chemeketa Community College (_2021-2023_)
  - Associate of Science in Business
  - 4.0 GPA
