@@ -1,4 +1,5 @@
 # Andrew Eide
+![Pic](/assets/IMG_0490.jpg)
 
 ### Technical Skills: SQL, Excel, Python, Tableau
 
