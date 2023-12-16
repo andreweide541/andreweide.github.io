@@ -1,4 +1,5 @@
 # Andrew Eide 
+### Email: andreweide541@gmail.com
 ![Pic](/assets/ProfilePic.jpg)
 
 ### Technical Skills: SQL, Excel, Python, Tableau
